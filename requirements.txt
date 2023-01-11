@@ -1,0 +1,24 @@
+pytest
+
+requests
+scrapy
+python3-bs4
+selenium
+
+Ipython
+# jupyter notebook
+
+numpy
+pandas
+
+scikit-learn
+imbalanced-learn
+xgboost
+shap
+pycaret
+
+matplotlib
+seaborn
+plotly
+geojson
+
